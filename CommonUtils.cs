@@ -12,6 +12,8 @@ namespace EOSBandi.Utilities
         public static void DoSomething(int i)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
+
         }
 
     }
